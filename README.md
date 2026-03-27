@@ -9,6 +9,18 @@ https://drive.google.com/drive/folders/1EW7djqR5e_R_D023AaUoQGSG3XnjQTfn?usp=dri
 
 웹사이트에 접속 후에는 일반회원으로 회원가입하거나 이미 있는 계정으로 로그인 할 수 있습니다.
 
+관리자 계정
+ -ID: admin123
+ -password: pw123
+ 일반회원 계정
+ -ID: user1
+ -password: password1
+
+ 일반 회원은 도서관/도서검색 등의 사이트 기본 기능을 사용할 수 있고, 관리자 계정은 일반회원의 기능 + 현재 가입한 사용자 목록을 볼 수 있는 기능이 있습니다.
+
+
+ 
+
 <admin 계정으로 로그인>
 <img width="728" height="442" alt="image" src="https://github.com/user-attachments/assets/671e2d9b-5a8a-4571-9a58-13a31d7e902a" />
 <img width="392" height="310" alt="image" src="https://github.com/user-attachments/assets/765959d0-316f-41d6-b70b-72a50c7637fc" />
@@ -45,14 +57,7 @@ https://drive.google.com/drive/folders/1EW7djqR5e_R_D023AaUoQGSG3XnjQTfn?usp=dri
 
 
 
-관리자 계정
- -ID: admin123
- -password: pw123
- 일반회원 계정
- -ID: user1
- -password: password1
 
- 일반 회원은 도서관/도서검색 등의 사이트 기본 기능을 사용할 수 있고, 관리자 계정은 일반회원의 기능 + 현재 가입한 사용자 목록을 볼 수 있는 기능이 있습니다.
 
 # Jeonju Library Map
 
