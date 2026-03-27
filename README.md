@@ -9,6 +9,10 @@ https://drive.google.com/drive/folders/1EW7djqR5e_R_D023AaUoQGSG3XnjQTfn?usp=dri
 
 웹사이트에 접속 후에는 일반회원으로 회원가입하거나 이미 있는 계정으로 로그인 할 수 있습니다.
 
+<메인화면>
+<img width="2560" height="1392" alt="image" src="https://github.com/user-attachments/assets/c7995e50-d234-4ae0-842c-38fc77c962d7" />
+
+
 관리자 계정
  -ID: admin123
  -password: pw123
