@@ -1,3 +1,7 @@
+
+# Jeonju Library Map
+
+
 바이브코딩으로 제작한 전주내 도서관 도서검색 시스템 입니다.
 
 사용한 데이터파일은 아래 구글 드라이브에서 다운받아 폴더 안에 있는 두개의 파일을 따로 꺼내서 프로젝트의 data 폴더 안에 넣어서 사용하면 됩니다.
@@ -57,9 +61,6 @@ https://drive.google.com/drive/folders/1EW7djqR5e_R_D023AaUoQGSG3XnjQTfn?usp=dri
 
 
 
-
-
-# Jeonju Library Map
 
 Streamlit + FastAPI + SQLite3 starter project for a public-data-powered library availability app.
 
