@@ -1,0 +1,3 @@
+﻿username,password,email,full_name,role,is_active
+admin123,pw123,admin@example.com,admin,admin,1
+user1,password1,user1@test.com,us1,user,1
